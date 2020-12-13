@@ -46,4 +46,4 @@ Our sampling frame was created using code/appendix.py, which scraped family data
 
 ### [Dollar Street](https://www.gapminder.org/dollar-street)
 
-By using Dollar Street family data, created by Anna Rosling Rönnlund at Gapminder, it helped answer our question. Please check them out!
+By using Dollar Street family data, it helped answer our question. Please check them out!

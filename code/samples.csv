@@ -1,0 +1,138 @@
+income,name,size,country,continent,has_spices,spice_number,has_salt,spice_container,spice_range,summary
+27,Butoyi,5,Burundi,Africa,1,1,1,Plastic,0-4,Both
+30,Chowdhury,6,India,Asia,1,5,1,Plastic,5-8,Both
+132,Tamang,4,Nepal,Asia,1,3,1,Plastic & Glass,0-4,Both
+180,Ramos Perez,5,Peru,The Americas,1,13.5,0,Plastic,13-16,Spice
+207,Sosic,4,Serbia,Europe,0,0,1,NA,0-4,Salt
+409,Osorio Betancur,1,Colombia,The Americas,0,0,0,NA,0-4,None
+399,Chandra,4,Indonesia,Asia,1,1,1,Plastic,0-4,Both
+835,Sang,1,South Korea,Asia,1,1,1,Plastic,0-4,Both
+654,Mileva Veselinov,6,Bulgaria,Europe,0,0,1,NA,0-4,Salt
+2010,Barnard,5,UK,Europe,1,3,0,NA,0-4,Spice
+1269,Robinson,2,USA,The Americas,1,9,1,Plastic,9-12,Both
+3755,Hearne,2,South Africa,Africa,1,6,1,Plastic,5-8,Both
+3295,Oztimur,4,Turkey,Europe,1,21,1,Plastic,21-24,Both
+325,Sawansri,3,Thailand,Asia,0,0,0,NA,0-4,None
+725,Laoye,3,Nigeria,Africa,1,4,1,Plastic,0-4,Both
+163,Mezei,9,Romania,Europe,0,0,0,NA,0-4,None
+996,Freeman,4,USA,The Americas,1,37,1,Plastic,37-40,Both
+2195,Carasco,3,France,Europe,1,1,1,Glass,0-4,Both
+2895,Moulefera,4,France,Europe,0,0,1,NA,0-4,Salt
+4018,Nazzani,2,Italy,Europe,1,9,1,Plastic & Glass,9-12,Both
+4884,Västibacken,4,Sweden,Europe,1,8,1,Plastic,5-8,Both
+3764,Bourguinat,4,France,Europe,1,19,1,Plastic & Glass,17-20,Both
+2900,Dolezelova,1,Czech Republic,Europe,1,3,1,Plastic,0-4,Both
+1681,Wessling,2,Austria,Europe,1,5,1,Glass & Metal,5-8,Both
+7110,Carrillo,2,France,Europe,1,4,1,Plastic & Glass,0-4,Both
+722,Crihan,2,Romania,Europe,1,10,1,Plastic & Glass & Paper,9-12,Both
+6256,Bratu,2,Romania,Europe,1,8,1,Plastic & Paper,5-8,Both
+5237,Matousek,3,Czech Republic,Europe,1,18,1,Plastic & Glass & Paper,17-20,Both
+694,Dudakova,4,Ukraine,Europe,1,7,1,Plastic & Paper,5-8,Both
+4553,Dela Torre Sawtana,3,Spain,Europe,1,11,1,Plastic,9-12,Both
+1289,Ahmed,3,Sweden,Europe,1,21,1,Plastic & Glass & Paper,21-24,Both
+1890,Oliver,5,United Kingdom,Europe,1,14,1,Plastic & Glass,13-16,Both
+4256,Rodrigo,3,Spain,Europe,1,38,1,Plastic & Metal & Glass & Paper,37-40,Both
+1998,Jocher,4,Netherlands,Europe,1,12,1,Glass & Metal,9-12,Both
+1260,Van Kilsdonk,2,Netherlands,Europe,1,10,1,Plastic & Glass,9-12,Both
+875,Rayez,3,France,Europe,1,11,1,Glass & Paper,9-12,Both
+1259,Lyskoit,4,Lithuania,Europe,1,4,1,Glass & Paper,0-4,Both
+430,Dan,3,Serbia,Europe,1,5,1,Glass,5-8,Both
+2074,Kjelsson,4,Sweden,Europe,1,11,1,Glass & Plastic,9-12,Both
+2224,Ringnér,5,Sweden,Europe,1,12,1,Glass,9-12,Both
+3439,Lyckner,5,Sweden,Europe,1,21,1,Glass & Plastic,21-24,Both
+3364,Loginov,3,Ukraine,Europe,1,16,1,Plastic,13-16,Both
+3195,Sanchez,2,Spain,Europe,1,22,1,Glass & Paper & Metal,21-24,Both
+228,Jambor,7,Serbia,Europe,1,3,1,Glass,0-4,Both
+2838,Tejada,2,Spain,Europe,1,10,1,Glass,9-12,Both
+476,Krivko,3,Ukraine,Europe,1,6,1,Plastic,5-8,Both
+2642,Merkushev,3,Russia,Europe,1,24,1,Plastic & Glass & Paper,21-24,Both
+42,Antonio,4,Zimbabwe,Africa,0,0,1,NA,0-4,Salt
+59,Ehegwo,9,Nigeria,Africa,0,0,0,NA,0-4,None
+41,Udemba,8,Nigeria,Africa,0,0,1,NA,0-4,Salt
+1610,Hassan,3,Egypt,Africa,1,10,1,Glass,9-12,Both
+68,Mollel,7,Tanzania,Africa,1,2,1,Plastic,0-4,Both
+623,Mozambique,3,Ethiopia,Africa,1,2,1,Plastic,0-4,Both
+35,Idle,3,Somalia,Africa,1,2,0,Plastic,0-4,Spice
+228,Nganashe’s,9,Tanzania,Africa,0,0,0,NA,0-4,None
+461,Onyango,5,Kenya,Africa,0,0,1,NA,0-4,Salt
+719,Arusa,4,Ethiopia,Africa,1,4,1,Plastic,0-4,Both
+54,Mwe Quidraogo,6,Burkina Faso,Africa,0,0,1,NA,0-4,Salt
+35,Majuru,6,Zimbabwe,Africa,0,0,1,NA,0-4,Salt
+391,Taty,1,Cameroon,Africa,0,0,1,NA,0-4,Salt
+321,Ayanou Ahobli,9,Togo,Africa,0,0,1,NA,0-4,Salt
+174,Mbusya,2,Cameroon,Africa,0,0,0,NA,0-4,None
+81,Ahova,10,Cote d'Ivoire,Africa,0,0,1,NA,0-4,Salt
+227,Ngo Maten,4,Cameroon,Africa,1,1,1,Plastic,0-4,Both
+56,Zongo,3,Burkina Faso,Africa,1,4,1,Plastic,0-4,Both
+83,Yao Bernabi,10,Cote d'Ivoire,Africa,0,0,1,NA,0-4,Salt
+218,Rawafi,4,Tunisia,Africa,1,3,1,Glass,0-4,Both
+1099,Ramirez Sanchez,5,Mexico,The Americas,1,8,1,Plastic,5-8,Both
+3478,Rivera,2,USA,The Americas,1,10,1,Glass,9-12,Both
+898,Rodriguez,3,Mexico,The Americas,1,2,1,Plastic,0-4,Both
+4446,Diamond,2,USA,The Americas,1,35,1,Plastic,33-36,Both
+254,Kjapa,6,Bolivia,The Americas,0,0,1,NA,0-4,Salt
+40,Paul,3,Haiti,The Americas,0,0,1,NA,0-4,Salt
+270,Castro,8,Guatemala,The Americas,1,5,1,Plastic,5-8,Both
+996,Freeman,4,USA,The Americas,1,26,1,Plastic,25-28,Both
+180,Eucinaz,7,Bolivia,The Americas,1,1,1,Plastic,0-4,Both
+722,Bustamante,4,Colombia,The Americas,1,6,1,Glass & Plastic,5-8,Both
+2055,Williams,1,USA,The Americas,1,24,1,Glass & Plastic,21-24,Both
+3356,Sacramento de Souza,5,Brazil,The Americas,1,6,1,Glass & Plastic,5-8,Both
+800,Duncan,2,USA,The Americas,1,4,1,Plastic,0-4,Both
+456,Costa Franklim,3,Brazil,The Americas,1,5,1,Plastic,5-8,Both
+265,Poma,7,Bolivia,The Americas,1,2,1,Paper,0-4,Both
+845,Fonseca,3,Brazil,The Americas,1,4,1,Paper & Plastic,0-4,Both
+824,Urrego,4,Colombia,The Americas,1,1,1,Plastic,0-4,Both
+40,Pierre,9,Haiti,The Americas,1,1,1,Plastic,0-4,Both
+261,Gonzales Vargas,1,Colombia,The Americas,0,0,0,NA,0-4,None
+102,Guispe de Tenorio,8,Peru,The Americas,1,1,0,Plastic,0-4,Spice
+107,Charles,2,Haiti,The Americas,0,0,1,NA,0-4,Salt
+3360,Vo-Lowe,2,Canada,The Americas,1,6,1,Plastic,5-8,Both
+5125,Deveney,2,USA,The Americas,1,52,1,Glass & Plastic,49-52,Both
+1242,Busko,3,Brazil,The Americas,0,0,1,NA,0-4,Salt
+143,Collo Ocoro,6,Colombia,The Americas,0,0,1,NA,0-4,Salt
+51,Pierre,8,Haiti,The Americas,1,7,1,Plastic,5-8,Both
+4650,Howard,4,USA,The Americas,1,25,1,Plastic,25-28,Both
+354,Costa,3,Brazil,The Americas,1,2,0,Plastic,0-4,Spice
+83,Quispe Sulea,7,Peru,The Americas,0,0,1,NA,0-4,Salt
+3748,Loaiza de Arias,3,Colombia,The Americas,1,7,1,Plastic,5-8,Both
+60,Kao,7,Cambodia,Asia,1,3,1,Plastic,0-4,Both
+437,Pen,2,Cambodia,Asia,0,0,1,NA,0-4,Salt
+4732,Ashe,3,India,Asia,1,16,1,Plastic,13-16,Both
+3830,Bastakoti,3,Nepal,Asia,1,7,1,Metal,5-8,Both
+171,Castillo,3,Philippines,Asia,1,1,1,Plastic,0-4,Both
+194,Gacotera,5,Philippines,Asia,1,1,1,Plastic,0-4,Both
+1569,Shrivastava,6,India,Asia,1,13,1,Plastic,13-16,Both
+459,Rahmat,4,Indonesia,Asia,1,4,1,Plastic,0-4,Both
+2766,Yiu,4,China,Asia,1,2,1,Plastic,0-4,Both
+1326,Chen,5,China,Asia,0,0,0,NA,0-4,None
+234,Akim,6,Indonesia,Asia,0,0,1,NA,0-4,Salt
+59,Paramanik,7,Bangladesh,Asia,1,2,1,Plastic,0-4,Both
+384,Bui,5,Vietnam,Asia,1,9,1,Plastic,9-12,Both
+316,Mare,7,Indonesia,Asia,0,0,1,Plastic,0-4,Salt
+235,Thapa,13,Nepal,Asia,1,8,1,Plastic,5-8,Both
+289,Lama,4,Nepal,Asia,1,1,1,Plastic,0-4,Both
+1742,Navale,5,India,Asia,1,7,1,Plastic,5-8,Both
+5621,Barve,5,India,Asia,1,7,1,Plastic,5-8,Both
+68,Win,7,Myanmar,Asia,1,1,1,Plastic,0-4,Both
+3477,Datta,4,India,Asia,1,1,1,Plastic,0-4,Both
+3705,Wu,4,China,Asia,1,8,0,Plastic & Glass,5-8,Spice
+375,Gaelsoi,4,Thailand,Asia,0,0,0,NA,0-4,None
+266,Lien,7,Vietnam,Asia,1,11,1,Plastic,9-12,Both
+3125,Goudarzi,2,Iran,Asia,1,16,0,Plastic & Metal,13-16,Spice
+2594,Carolina,3,Indonesia,Asia,1,1,1,Plastic,0-4,Both
+1098,Najam,3,Pakistan,Asia,1,4,1,Plastic,0-4,Both
+237,Lèo,6,Vietnam,Asia,1,5,1,Plastic,5-8,Both
+246,Khā,7,Vietnam,Asia,1,3,1,Plastic,0-4,Both
+909,Kuruwagalapatiye,3,Sri Lanka,Asia,1,1,1,Plastic,0-4,Both
+504,Rishabu Arya,3,India,Asia,1,6,1,Glass,5-8,Both
+32,Tarimo,4,Tanzania,Africa,0,0,1,Glass,0-4,Salt
+52,Disimasi,6,Malawi,Africa,0,0,0,NA,0-4,None
+51,Banda,12,Malawi,Africa,0,0,0,NA,0-4,None
+31,Njoka,7,Malawi,Africa,0,0,1,Plastic,0-4,Salt
+301,Lekono,5,Cameroon,Africa,0,0,1,Glass,0-4,Salt
+375,Nkrumah,5,Ghana,Africa,1,1,0,NA,0-4,Spice
+96,Alimata,4,Burkina Faso,Africa,1,3,1,Plastic,0-4,Both
+1116,Ngono,4,Cameroon,Africa,1,3,1,Glass,0-4,Both
+3750,Amama,3,Nigeria,Africa,1,4,1,Plastic,0-4,Both
+116,Blamoh,14,Liberia,Africa,0,0,1,Plastic,0-4,Salt
